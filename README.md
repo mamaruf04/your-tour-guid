@@ -1,4 +1,4 @@
-# Freedom Bird Tour Guide
+# Your Tour Guide
 
 ### It's a simple React base Web App.
 ### Here you can see A Tour Guide & His services.
@@ -14,16 +14,16 @@
 * Footer
 * Other's data.
 ----
-### You can see me here.. [Click Me](https://freedom-bird-tour-guide.web.app/)
+### You can see me here.. [Click Me](https://independent-service-b49b4.web.app/)
 
 ## Installation
 
 ```bash
-git clone https://github.com/kiron0/freedom-bird-tour-guide.git
+git clone https://github.com/mamaruf04/your-tour-guid
 ```
 
 ```bash
-cd freedom-bird-tour-guide
+cd your-tour-guid
 ```
 
 ```bash
